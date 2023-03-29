@@ -1,9 +1,0 @@
-@extends('layouts.app')
-
-@section('title', 'О блоге')
-
-@section('header', 'О блоге')
-
-@section('content')
-    <p>Эксперементы с Laravel на Хекслете</p>
-@endsection
